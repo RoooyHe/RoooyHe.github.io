@@ -1,2 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://RoooyHe.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RoooyHe.github.io</link></image><lastBuildDate>Wed, 14 May 2025 07:48:38 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Linera</title><link>https://RoooyHe.github.io/post/Linera.html</link><description>test1。</description><guid isPermaLink="true">https://RoooyHe.github.io/post/Linera.html</guid><pubDate>Wed, 14 May 2025 07:21:45 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://RoooyHe.github.io</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://RoooyHe.github.io</link></image><lastBuildDate>Wed, 14 May 2025 08:18:18 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Linera</title><link>https://RoooyHe.github.io/post/Linera.html</link><description># Linera
+
+### 基本信息
+
+a16z Layer1 1200万融资
+
+Linera 是一个创新的 L1 区块链项目，通过其微链（microchains）架构优化了交易的实时性能，允许用户直接与小型区块链交互，从而实现高安全性和最低延迟。</description><guid isPermaLink="true">https://RoooyHe.github.io/post/Linera.html</guid><pubDate>Wed, 14 May 2025 07:21:45 +0000</pubDate></item></channel></rss>
