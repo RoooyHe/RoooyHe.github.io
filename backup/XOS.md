@@ -1,6 +1,6 @@
-SOL Layer2 5500万融资
-
 ### 基本信息
+
+SOL Layer2 5500万融资
 
 XOS 是 Solana 的高性能第 2 层解决方案，通过在链下处理交易并在 Solana 主网上最终确认，缓解了网络拥塞，可能显著降低交易成本。这对高频交易特别有用，提升了 Solana 在 GameFi、DeFi 和 Web3 创新方面的潜力。EVM 兼容的网络，支持 Solana 的 SPL 代币生态系统，并通过双向桥接与 ERC-20 代币互通。
 
@@ -35,11 +35,19 @@ DEX : https://dex.x.ink/swap
 - 绑定SOLANA地址
   
 
-Galxe 获取 XOS Galxe Member Role
+完成 Galxe :
 
-工会获取 XOS Guild Menber Role
+- Meet XOS
+  
+- XOS Galxe Member Role
+  
 
-铸造NFT后获取 Guardian Badge NFT Role
+完成工会 :
+
+- XOS Guild Member Role
+  
+- Guardian Badge NFT Role
+  
 
 邀请一人后可以三天领水
 
