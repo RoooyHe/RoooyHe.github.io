@@ -14,4 +14,7 @@ Discord : https://discord.gg/XFPURAwf
 
 完成Galxe :
 
+The MagicBlock Quest - Release 1, Phase 1
+
 The MagicBlock Quest - Release 2, Phase 1
+
